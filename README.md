@@ -1,6 +1,8 @@
 ## Exposing _C++_ Classes into _R_ Through Rcpp Modules
 
-[![Travis-CI Build Status](https://travis-ci.org/r-pkg-examples/rcpp-modules-bank-account.svg?branch=master)](https://travis-ci.org/r-pkg-examples/rcpp-modules-bank-account)
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/coatless-rd-rcpp/rcpp-modules-bank-account/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/coatless-rd-rcpp/rcpp-modules-bank-account/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
 
 The `RcppBankAccount` _R_ package provides an example of using [Rcpp Modules](https://cran.r-project.org/web/packages/Rcpp/vignettes/rcpp-modules-bank-account.pdf)
 to expose _C++_ classes and their methods to _R_. The example hails from 
@@ -18,8 +20,8 @@ guides.
 With a compiler in hand, one can then install the package from GitHub by:
 
 ```r
-# install.packages("devtools")
-devtools::install_github("r-pkg-examples/rcpp-modules-bank-account")
+# install.packages("remotes")
+remotes::install_github("coatless-rd-rcpp/rcpp-modules-bank-account")
 library("RcppBankAccount")
 ```
 

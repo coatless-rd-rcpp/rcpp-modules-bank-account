@@ -15,8 +15,9 @@ a C++ class under S4.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://rd.thecoatlessprofessor.com/rcpp-modules-bank-account/}
-  \item Report bugs at \url{https://github.com/coatless-r-n-d/rcpp-modules-bank-account}
+  \item \url{https://github.com/coatless-rd-rcpp/rcpp-modules-bank-account}
+  \item \url{https://rd-rcpp.thecoatlessprofessor.com/rcpp-modules-bank-account/}
+  \item Report bugs at \url{https://github.com/coatless-rd-rcpp/rcpp-modules-bank-account/issues}
 }
 
 }
