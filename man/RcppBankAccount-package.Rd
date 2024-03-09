@@ -6,8 +6,7 @@
 \alias{RcppBankAccount-package}
 \title{RcppBankAccount: Expose the BankAccount C++ Class using Rcpp Modules}
 \description{
-Provides an implementation of a BankAccount 'C++' class being
-    connected to 'R' using 'Rcpp Modules' to expose the underlying class methods.
+Provides an implementation of a BankAccount 'C++' class being connected to 'R' using 'Rcpp Modules' to expose the underlying class methods.
 }
 \details{
 RcppBankAccount is a package showing how to use Rcpp Modules to make available
@@ -16,7 +15,8 @@ a C++ class under S4.
 \seealso{
 Useful links:
 \itemize{
-  \item Report bugs at \url{https://github.com/r-pkg-examples/rcpp-modules-bank-account}
+  \item \url{https://rd.thecoatlessprofessor.com/rcpp-modules-bank-account/}
+  \item Report bugs at \url{https://github.com/coatless-r-n-d/rcpp-modules-bank-account}
 }
 
 }
