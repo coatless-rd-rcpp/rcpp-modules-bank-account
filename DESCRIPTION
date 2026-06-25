@@ -10,7 +10,7 @@ Description: Provides an implementation of a BankAccount 'C++' class being
 BugReports: https://github.com/coatless-rd-rcpp/rcpp-modules-bank-account/issues
 URL: https://github.com/coatless-rd-rcpp/rcpp-modules-bank-account, https://rd-rcpp.thecoatlessprofessor.com/rcpp-modules-bank-account/
 Depends: R (>= 4.3.0)
-Imports: Rcpp (>= 1.0.12), methods
+Imports: Rcpp (>= 1.1.1), methods
 LinkingTo: Rcpp
 License: GPL (>= 2)
 Encoding: UTF-8
